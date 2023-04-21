@@ -1,0 +1,13 @@
+# MacOS stuff
+/**/.DS_Store
+
+# VS Code stuff
+.vscode
+
+# Python stuff
+/**/__pycache__
+/**/.ipynb_checkpoints
+/**/*.pkl
+
+# Reference
+xnx
